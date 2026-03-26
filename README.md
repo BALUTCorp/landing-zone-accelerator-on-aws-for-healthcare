@@ -219,3 +219,10 @@ Thư viện này được cấp phép theo Giấy phép MIT-0. Xem file [LICENSE
     - Thêm tool "Tag Editor" - api resource-explorer:*
     - Xóa "AWS RoboMaker" - api robomaker:*
 - Sửa lỗi: Không có
+
+### v1.9.0-f - 26/03/2026
+- Thay đổi:
+  - 03/2026
+    - Cập nhật phiên bản Control Tower Landing Zone từ 3.3 lên 4.0
+    - Dịch README.md sang tiếng Việt, backup bản tiếng Anh sang README-en.md
+- Sửa lỗi: Không có
